@@ -1,2 +1,4 @@
 this is a test file
 this is line 2 
+
+this is the changes in the line 3 made by new branch
