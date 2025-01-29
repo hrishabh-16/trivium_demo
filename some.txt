@@ -1,1 +1,7 @@
+
 this is some txt file 
+
+
+
+this is new line 
+
